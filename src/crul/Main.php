@@ -6,6 +6,11 @@ use Ankit04\AviasalesFlight\CRUL\Crul;
 
 class AviasalesFlight
 {
+    public function test()
+    {
+        return 'asdfsafd';
+    }
+
     public static function initiate($data)
     {
         
